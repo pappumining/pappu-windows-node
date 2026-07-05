@@ -4,9 +4,9 @@ Official Windows package for running **Pappu Node** on Windows devices.
 
 This package allows users to run Pappu Mining Node on:
 
-* Windows 7
-* Windows 10
-* Windows 11
+* Windows 7 (https://pappumining.com/win7/) - SP1
+* Windows 10 - Any version (Latest updated)
+* Windows 11 - Any version (Latest Updated)
 
 After installation, the system will generate a QR code. Scan the QR code to activate your device with your Pappu Mining activation code and connect it to your account.
 
